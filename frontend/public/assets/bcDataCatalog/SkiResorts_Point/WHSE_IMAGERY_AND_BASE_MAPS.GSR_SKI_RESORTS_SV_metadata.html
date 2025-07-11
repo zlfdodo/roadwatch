@@ -1,0 +1,225 @@
+﻿<!DOCTYPE html>
+<html>
+   <head>
+      <title>Metadata</title>
+      <meta charset="UTF-8">
+      <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" rel="stylesheet">
+   </head>
+   <body>
+      <div class="container">
+         <div class="row">
+            <div class="col-md-12" style="padding:10px;border: 1px solid black" >
+                     <img class="img-fluid d-block mx-auto" src="https://catalogue.data.gov.bc.ca/img/bc_mark.699f8f93.png" alt="B.C. Government Logo" style="height:65px;background-color:#003366">
+                     <H2 style="color:rgb(2,47,248)" class="text-center">Ski Resorts</H2>
+                     <table class="table table-condensed">
+                        <thead>
+                           <tr>
+                              <th>Title</th>
+                              <th>Purpose</th>
+                              <th>Description</th>
+                              <th>Last Modified Date</th>
+                              <th>BCDC URL</th>
+                              <th>BCDC Type</th>
+                           </tr>
+                        </thead>
+                        <tbody>
+                           <tr>
+                              <td>Ski Resorts</td>
+                              <td>The primary use of this data is to provide locational information for ski resorts in British Columbia.</td>
+                              <td>Ski Resorts is a point dataset identifying the location of ski resorts in British Columbia.</td>
+                              <td>2025-04-02T05:02:33</td>
+                              <td><a href="https://catalogue.data.gov.bc.ca/dataset/db1489d4-4304-4203-99bf-11b2b23179eb">https://catalogue.data.gov.bc.ca/dataset/db1489d4-4304-4203-99bf-11b2b23179eb</a></td>
+                              <td>Geographic</td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table class="table table-condensed">
+                        <thead>
+                           <tr>
+                              <th>Resource Location</th>
+                              <th>Object Name</th>
+                              <th>Short Name</th>
+                              <th>Object Comments</th>
+                              <th>Projection</th>
+                              <th>License Title</th>
+                              <th>License URL</th>
+                           </tr>
+                        </thead>
+                        <tbody>
+                           <tr>
+                              <td>Bc Geographic Warehouse</td>
+                              <td>WHSE_IMAGERY_AND_BASE_MAPS. GSR_SKI_RESORTS_SV</td>
+                              <td>SKI_RESORT</td>
+                              <td>GSR_SKI_RESORTS_SV is a spatially enabled layer comprising Ski Resorts. Ski Resorts is a point dataset identifying the location of ski resorts in British Columbia.</td>
+                              <td>epsg3005</td>
+                              <td>Open Government Licence - British Columbia</td>
+                              <td><a href="https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61">License Url</a></td>
+                           </tr>
+                        </tbody>
+                     </table>
+               <hr style="border-width:4px ">
+            </div>
+         </div>
+         <div class="row">
+            <div class="col-md-12" style="padding:10px;border: 1px solid black" >
+                     <H5 style="color:rgb(2,47,248)" class="text-left">Column Details</H5>
+                     <table class="table table-striped">
+                        <thead>
+                           <tr>
+                              <th>Column Name</th>
+                              <th>Short Name</th>
+                              <th>Data Type</th>
+                              <th>Data Precision</th>
+                              <th>Column Comments</th>
+                           </tr>
+                        </thead>
+                        <tbody>
+                           <tr>
+                              <td>FACILITY_NAME</td>
+                              <td>FCLTY_NM</td>
+                              <td>VARCHAR2</td>
+                              <td>500</td>
+                              <td>FACILITY_NAME is the name of the ski resort.</td>
+                           </tr>
+                           <tr>
+                              <td>KEYWORDS</td>
+                              <td>KEYWORDS</td>
+                              <td>VARCHAR2</td>
+                              <td>1000</td>
+                              <td>KEYWORDS contains text strings supplied by the Custodian, to be used for search/query purposes. Keywords are separated by the ; delimiter.</td>
+                           </tr>
+                           <tr>
+                              <td>STREET_ADDRESS</td>
+                              <td>ST_ADDRESS</td>
+                              <td>VARCHAR2</td>
+                              <td>200</td>
+                              <td>STREET_ADDRESS is a free form expression of the site descriptor (e.g., unit) and the civic building number / street / street indicator portion of an address, e.g., Unit 1, 123 Main Street East.</td>
+                           </tr>
+                           <tr>
+                              <td>LOCALITY</td>
+                              <td>LOCALITY</td>
+                              <td>VARCHAR2</td>
+                              <td>100</td>
+                              <td>LOCALITY is the name of the municipality, community, Federal Indian Reserve (IR), subdivision, regional district, indigenous land or natural feature the occupant site is located in, e.g., Victoria, Saanich IR 1, Capital Regional District.</td>
+                           </tr>
+                           <tr>
+                              <td>MAILING_ADDRESS</td>
+                              <td>MAIL_ADD</td>
+                              <td>VARCHAR2</td>
+                              <td>1000</td>
+                              <td>MAILING_ADDRESS contains an address string, not a parsed address.  It is the address that will be displayed for presentation purposes, e.g., 32900 Marshall Road, Abbotsford, BC</td>
+                           </tr>
+                           <tr>
+                              <td>WEBSITE_URL</td>
+                              <td>WEBSITE</td>
+                              <td>VARCHAR2</td>
+                              <td>500</td>
+                              <td>WEBSITE_URL contains the link to the Home page of the Occupant's Website</td>
+                           </tr>
+                           <tr>
+                              <td>IMAGE_URL</td>
+                              <td>IMAGE_URL</td>
+                              <td>VARCHAR2</td>
+                              <td>500</td>
+                              <td>IMAGE_URL contains a full URL link to a picture of the Occupant's Location.</td>
+                           </tr>
+                           <tr>
+                              <td>LATITUDE</td>
+                              <td>LATITUDE</td>
+                              <td>NUMBER</td>
+                              <td>9</td>
+                              <td>LATITUDE is the geographic coordinate, in decimal degrees (dd.dddddd), of the location of the feature as measured from the equator, e.g., 55.323653</td>
+                           </tr>
+                           <tr>
+                              <td>LONGITUDE</td>
+                              <td>LONGITUDE</td>
+                              <td>NUMBER</td>
+                              <td>10</td>
+                              <td>LONGITUDE is the geographic coordinate, in decimal degrees (-ddd.dddddd), of the location of the feature as measured from the prime meridian, e.g., -123.093544</td>
+                           </tr>
+                           <tr>
+                              <td>PHYSICAL_ADDRESS</td>
+                              <td>ADDRESS</td>
+                              <td>VARCHAR2</td>
+                              <td>1000</td>
+                              <td>PHYSICAL_ADDRESS contains the civic or non-civic address as a single string, structured according to the specification of the Physical Address and Geocoding Standard, e.g., 420 GORGE RD E, VICTORIA, BC.</td>
+                           </tr>
+                           <tr>
+                              <td>DATE_UPDATED</td>
+                              <td>DT_UPDATE</td>
+                              <td>DATE</td>
+                              <td>7</td>
+                              <td>DATE_UPDATED contains the date that the Occupant data was updated in the Occupant structure (system-generated)</td>
+                           </tr>
+                           <tr>
+                              <td>SITE_GEOCODED_IND</td>
+                              <td>GEOCD_IND</td>
+                              <td>VARCHAR2</td>
+                              <td>1</td>
+                              <td>SITE_GEOCODED_IND contains a Flag/indicator (Y/N) that the Occupant Physical Address has been geo-coded by the DataBC Address Geocoder and the results provide a valid site address, e.g., Y, N</td>
+                           </tr>
+                           <tr>
+                              <td>SOURCE_DATA_ID</td>
+                              <td>SRCDATA_ID</td>
+                              <td>VARCHAR2</td>
+                              <td>20</td>
+                              <td>SOURCE_DATA_ID is a unique occupant id either supplied by the source data system or produced by GSR, depending on the value of SUPPLIED_SOURCE_ID_IND</td>
+                           </tr>
+                           <tr>
+                              <td>CUSTODIAN_ORG_DESCRIPTION</td>
+                              <td>CUST_ORG</td>
+                              <td>VARCHAR2</td>
+                              <td>200</td>
+                              <td>CUSTODIAN_ORG_DESCRIPTION contains the name or description of the custodial organization (usually Ministry and Branch)</td>
+                           </tr>
+                           <tr>
+                              <td>BUSINESS_CATEGORY_CLASS</td>
+                              <td>BUS_CAT_CL</td>
+                              <td>VARCHAR2</td>
+                              <td>1000</td>
+                              <td>BUSINESS_CATEGORY_CLASS designates the category of business, i.e., SkiingFacilities</td>
+                           </tr>
+                           <tr>
+                              <td>BUSINESS_CATEGORY_DESCRIPTION</td>
+                              <td>BUS_CAT_DS</td>
+                              <td>VARCHAR2</td>
+                              <td>1000</td>
+                              <td>BUSINESS_CATEGORY_DESCRIPTION describes the category of business, i.e., Skiing Facilities</td>
+                           </tr>
+                           <tr>
+                              <td>OCCUPANT_TYPE_DESCRIPTION</td>
+                              <td>OCCPNT_TYP</td>
+                              <td>VARCHAR2</td>
+                              <td>500</td>
+                              <td>OCCUPANT_TYPE_DESCRIPTION contains the description of the occupant type, e.g. Hospital</td>
+                           </tr>
+                           <tr>
+                              <td>SHAPE</td>
+                              <td>SHAPE</td>
+                              <td>SDO_GEOMETRY</td>
+                              <td>64</td>
+                              <td>SHAPE is the column used to reference the spatial coordinates defining the feature.</td>
+                           </tr>
+                           <tr>
+                              <td>SEQUENCE_ID</td>
+                              <td>SEQ_ID</td>
+                              <td>NUMBER</td>
+                              <td>10</td>
+                              <td>SEQUENCE_ID contains a value to distinguish occupant instances. Where a single occupant can have multiple instances (representing different services, for example), this field distinguishes this occupant instance from other instances of the same or different occupants.</td>
+                           </tr>
+                           <tr>
+                              <td>SE_ANNO_CAD_DATA</td>
+                              <td>None</td>
+                              <td>BLOB</td>
+                              <td>4000</td>
+                              <td>SE_ANNO_CAD_DATA is a binary column used by spatial tools to store annotation, curve features and CAD data when using the SDO_GEOMETRY storage data type.</td>
+                           </tr>
+                        </tbody>
+                     </table>
+               <hr style="border-width:5px ">
+            </div>
+         </div>
+      </div>
+   </body>
+</html>
+

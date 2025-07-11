@@ -1,0 +1,14 @@
+------------------
+Order Details
+-----------------
+Order ID: 2471404
+Date: 20250627
+
+----------------------
+Feature Types
+-----------------------
+ - ATES Avalanche Terrain Exposure Scale Recreation Boundaries in subdirectory RST_ATES_RECREATION_BNDRY_SP
+
+----------------------------
+Packaged Products
+----------------------------

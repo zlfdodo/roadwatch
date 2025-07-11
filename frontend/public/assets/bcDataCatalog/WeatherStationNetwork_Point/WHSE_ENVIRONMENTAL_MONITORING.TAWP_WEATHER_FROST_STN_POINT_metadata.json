@@ -1,0 +1,95 @@
+[
+	{
+		"title" : "Avalanche and Weather Programs - Weather Station Network",
+		"name" : "avalanche-and-weather-programs-weather-station-network",
+		"bcdc_data_resource_url" : "https://catalogue.data.gov.bc.ca/dataset/17e35288-4b46-42c6-bd98-78d8443aa2a7",
+		"description" : "Locations of active electronic weather stations maintained by the Ministry of Transportation to support Avalanche and Winter Road maintenance operations.",
+		"purpose" : "To delineate weather station locations as points",
+		"bcdc_type" : "Geographic",
+		"last_modified" : "2023-04-21T15:25:46",
+		"resource_storage_location" : "Bc Geographic Warehouse",
+		"object_name" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT",
+		"object_short_name" : "TAWP_STN",
+		"projection_name" : "epsg3005",
+		"license_title" : "Open Government Licence - British Columbia",
+		"license_url" : "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+		"details" : [
+			{
+				"column_comments" : "OBSERVATION LOCATION ID is the Observation Location Unique Identifier (to relate to oracle table SAW_OBSERVATION_LOCATION).",
+				"column_name" : "OBSERVATION_LOCATION_ID",
+				"data_precision" : 5,
+				"data_type" : "NUMBER",
+				"short_name" : "OBSRVTN_ID"
+			},
+			{
+				"column_comments" : "STATION CODE is the Station Number - Business attribute for weather station.",
+				"column_name" : "STATION_CODE",
+				"data_precision" : 6,
+				"data_type" : "VARCHAR2",
+				"short_name" : "STATION_CD"
+			},
+			{
+				"column_comments" : "STATION NAME is the business name for the station.",
+				"column_name" : "STATION_NAME",
+				"data_precision" : 30,
+				"data_type" : "VARCHAR2",
+				"short_name" : "STATION_NM"
+			},
+			{
+				"column_comments" : "CONTRACT AREA ID is the  business attribute for Ministry Contract Service Area.",
+				"column_name" : "CONTRACT_AREA_ID",
+				"data_precision" : 3,
+				"data_type" : "NUMBER",
+				"short_name" : "CNTRCT__ID"
+			},
+			{
+				"column_comments" : "OBSERVATION LOCATION TYPE is the Observation Location Type. Examples are RAWS: Remote Automated Weather Station - primarily used for Avalanche operation, RWS: Road Weather Station - primarily used for winter road maintenance operationsGEOTCH: Frost Probe Station - used for Seasonal Strength Loss Programs at District Offices.TECHWX: Stations where manual data is collected by Ministry Personnel to supplement the RAWS Observations.AVALWX: Stations where manual data is collected and submitted to the Ministry to supplement local knowledge for avalanche forecasting.",
+				"column_name" : "OBSERVATION_LOCATION_TYPE",
+				"data_precision" : 30,
+				"data_type" : "VARCHAR2",
+				"short_name" : "OBSRVTN_LE"
+			},
+			{
+				"column_comments" : "LATITUDE is the geographic latitude of a point.",
+				"column_name" : "LATITUDE",
+				"data_precision" : 18,
+				"data_type" : "NUMBER",
+				"short_name" : "LATITUDE"
+			},
+			{
+				"column_comments" : "LONGITUDE is the  geographic longitude of a point.",
+				"column_name" : "LONGITUDE",
+				"data_precision" : 18,
+				"data_type" : "NUMBER",
+				"short_name" : "LONGITUDE"
+			},
+			{
+				"column_comments" : "FEATURE CODE is a standard alphanumeric code to identify the type of feature represented by the spatial data. A feature code is most importantly a means of linking a feature to its name and definition. For example, the code GB15300120 on a digital geographic feature links it to the name \"Lake - Dry\" with the definition \"A lake bed from which all water has drained or evaporated.\" The feature code does NOT mark when it was digitized, what dataset it belongs to, how accurate it is, what it should look like when plotted, or who is responsible for updating it. It only says what it represents in the real world. It also doesn't even matter how the lake is represented. If it is a very small lake, it may be stored as a point feature. If it is large enough to have a shape at the scale of data capture, it may be stored as an outline, or a closed polygon. The same feature code still links it to the same definition. The feature code of this dataset is CF29200000.",
+				"column_name" : "FEATURE_CODE",
+				"data_precision" : 10,
+				"data_type" : "VARCHAR2",
+				"short_name" : "FEATURE_CD"
+			},
+			{
+				"column_comments" : "GEOMETRY is the column used to reference the spatial coordinates defining the feature. ",
+				"column_name" : "GEOMETRY",
+				"data_precision" : 1,
+				"data_type" : "SDO_GEOMETRY",
+				"short_name" : "GEOMETRY"
+			},
+			{
+				"column_comments" : "OBJECTID is a required attribute of feature classes and object classes in a geodatabase. ",
+				"column_name" : "OBJECTID",
+				"data_precision" : "38",
+				"data_type" : "NUMBER",
+				"short_name" : "OBJECTID"
+			},
+			{
+				"column_comments" : "SE_ANNO_CAD_DATA is a binary column used by spatial tools to store annotation, curve features and CAD data when using the SDO_GEOMETRY storage data type. ",
+				"column_name" : "SE_ANNO_CAD_DATA",
+				"data_precision" : 4000,
+				"data_type" : "BLOB"
+			}
+		]
+	}
+]

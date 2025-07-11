@@ -1,0 +1,162 @@
+﻿<!DOCTYPE html>
+<html>
+   <head>
+      <title>Metadata</title>
+      <meta charset="UTF-8">
+      <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" rel="stylesheet">
+   </head>
+   <body>
+      <div class="container">
+         <div class="row">
+            <div class="col-md-12" style="padding:10px;border: 1px solid black" >
+                     <img class="img-fluid d-block mx-auto" src="https://catalogue.data.gov.bc.ca/img/bc_mark.699f8f93.png" alt="B.C. Government Logo" style="height:65px;background-color:#003366">
+                     <H2 style="color:rgb(2,47,248)" class="text-center">Avalanche and Weather Programs - Weather Station Network</H2>
+                     <table class="table table-condensed">
+                        <thead>
+                           <tr>
+                              <th>Title</th>
+                              <th>Purpose</th>
+                              <th>Description</th>
+                              <th>Last Modified Date</th>
+                              <th>BCDC URL</th>
+                              <th>BCDC Type</th>
+                           </tr>
+                        </thead>
+                        <tbody>
+                           <tr>
+                              <td>Avalanche and Weather Programs - Weather Station Network</td>
+                              <td>To delineate weather station locations as points</td>
+                              <td>Locations of active electronic weather stations maintained by the Ministry of Transportation to support Avalanche and Winter Road maintenance operations.</td>
+                              <td>2023-04-21T15:25:46</td>
+                              <td><a href="https://catalogue.data.gov.bc.ca/dataset/17e35288-4b46-42c6-bd98-78d8443aa2a7">https://catalogue.data.gov.bc.ca/dataset/17e35288-4b46-42c6-bd98-78d8443aa2a7</a></td>
+                              <td>Geographic</td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table class="table table-condensed">
+                        <thead>
+                           <tr>
+                              <th>Resource Location</th>
+                              <th>Object Name</th>
+                              <th>Short Name</th>
+                              <th>Object Comments</th>
+                              <th>Projection</th>
+                              <th>License Title</th>
+                              <th>License URL</th>
+                           </tr>
+                        </thead>
+                        <tbody>
+                           <tr>
+                              <td>Bc Geographic Warehouse</td>
+                              <td>WHSE_ENVIRONMENTAL_MONITORING. TAWP_WEATHER_FROST_STN_POINT</td>
+                              <td>TAWP_STN</td>
+                              <td>None</td>
+                              <td>epsg3005</td>
+                              <td>Open Government Licence - British Columbia</td>
+                              <td><a href="https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61">License Url</a></td>
+                           </tr>
+                        </tbody>
+                     </table>
+               <hr style="border-width:4px ">
+            </div>
+         </div>
+         <div class="row">
+            <div class="col-md-12" style="padding:10px;border: 1px solid black" >
+                     <H5 style="color:rgb(2,47,248)" class="text-left">Column Details</H5>
+                     <table class="table table-striped">
+                        <thead>
+                           <tr>
+                              <th>Column Name</th>
+                              <th>Short Name</th>
+                              <th>Data Type</th>
+                              <th>Data Precision</th>
+                              <th>Column Comments</th>
+                           </tr>
+                        </thead>
+                        <tbody>
+                           <tr>
+                              <td>OBSERVATION_LOCATION_ID</td>
+                              <td>OBSRVTN_ID</td>
+                              <td>NUMBER</td>
+                              <td>5</td>
+                              <td>OBSERVATION LOCATION ID is the Observation Location Unique Identifier (to relate to oracle table SAW_OBSERVATION_LOCATION).</td>
+                           </tr>
+                           <tr>
+                              <td>STATION_CODE</td>
+                              <td>STATION_CD</td>
+                              <td>VARCHAR2</td>
+                              <td>6</td>
+                              <td>STATION CODE is the Station Number - Business attribute for weather station.</td>
+                           </tr>
+                           <tr>
+                              <td>STATION_NAME</td>
+                              <td>STATION_NM</td>
+                              <td>VARCHAR2</td>
+                              <td>30</td>
+                              <td>STATION NAME is the business name for the station.</td>
+                           </tr>
+                           <tr>
+                              <td>CONTRACT_AREA_ID</td>
+                              <td>CNTRCT__ID</td>
+                              <td>NUMBER</td>
+                              <td>3</td>
+                              <td>CONTRACT AREA ID is the  business attribute for Ministry Contract Service Area.</td>
+                           </tr>
+                           <tr>
+                              <td>OBSERVATION_LOCATION_TYPE</td>
+                              <td>OBSRVTN_LE</td>
+                              <td>VARCHAR2</td>
+                              <td>30</td>
+                              <td>OBSERVATION LOCATION TYPE is the Observation Location Type. Examples are RAWS: Remote Automated Weather Station - primarily used for Avalanche operation, RWS: Road Weather Station - primarily used for winter road maintenance operationsGEOTCH: Frost Probe Station - used for Seasonal Strength Loss Programs at District Offices.TECHWX: Stations where manual data is collected by Ministry Personnel to supplement the RAWS Observations.AVALWX: Stations where manual data is collected and submitted to the Ministry to supplement local knowledge for avalanche forecasting.</td>
+                           </tr>
+                           <tr>
+                              <td>LATITUDE</td>
+                              <td>LATITUDE</td>
+                              <td>NUMBER</td>
+                              <td>18</td>
+                              <td>LATITUDE is the geographic latitude of a point.</td>
+                           </tr>
+                           <tr>
+                              <td>LONGITUDE</td>
+                              <td>LONGITUDE</td>
+                              <td>NUMBER</td>
+                              <td>18</td>
+                              <td>LONGITUDE is the  geographic longitude of a point.</td>
+                           </tr>
+                           <tr>
+                              <td>FEATURE_CODE</td>
+                              <td>FEATURE_CD</td>
+                              <td>VARCHAR2</td>
+                              <td>10</td>
+                              <td>FEATURE CODE is a standard alphanumeric code to identify the type of feature represented by the spatial data. A feature code is most importantly a means of linking a feature to its name and definition. For example, the code GB15300120 on a digital geographic feature links it to the name "Lake - Dry" with the definition "A lake bed from which all water has drained or evaporated." The feature code does NOT mark when it was digitized, what dataset it belongs to, how accurate it is, what it should look like when plotted, or who is responsible for updating it. It only says what it represents in the real world. It also doesn't even matter how the lake is represented. If it is a very small lake, it may be stored as a point feature. If it is large enough to have a shape at the scale of data capture, it may be stored as an outline, or a closed polygon. The same feature code still links it to the same definition. The feature code of this dataset is CF29200000.</td>
+                           </tr>
+                           <tr>
+                              <td>GEOMETRY</td>
+                              <td>GEOMETRY</td>
+                              <td>SDO_GEOMETRY</td>
+                              <td>1</td>
+                              <td>GEOMETRY is the column used to reference the spatial coordinates defining the feature. </td>
+                           </tr>
+                           <tr>
+                              <td>OBJECTID</td>
+                              <td>OBJECTID</td>
+                              <td>NUMBER</td>
+                              <td>38</td>
+                              <td>OBJECTID is a required attribute of feature classes and object classes in a geodatabase. </td>
+                           </tr>
+                           <tr>
+                              <td>SE_ANNO_CAD_DATA</td>
+                              <td>None</td>
+                              <td>BLOB</td>
+                              <td>4000</td>
+                              <td>SE_ANNO_CAD_DATA is a binary column used by spatial tools to store annotation, curve features and CAD data when using the SDO_GEOMETRY storage data type. </td>
+                           </tr>
+                        </tbody>
+                     </table>
+               <hr style="border-width:5px ">
+            </div>
+         </div>
+      </div>
+   </body>
+</html>
+

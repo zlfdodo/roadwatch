@@ -1,0 +1,5 @@
+road event - indicate the road direction that affected by event (use the line string data in json)
+
+corridor selection/interest point - setup several zoom in for route like from Vancouver to ski resorts around / for interest points like roadwatch for e.g. 50 km around a resort
+
+customize corridor/interest point selection - user can select road corridor/interest point, so the bounding box and buffer can create to show the selected data

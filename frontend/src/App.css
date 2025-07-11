@@ -1,0 +1,201 @@
+/* Panels */
+.dashboard {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  font-family: sans-serif;
+  overflow-y: auto;  /* Add this to enable scrolling */
+}
+
+.top-banner {
+  height: 50px;
+  background-color: #1e1e1e;
+  color: white;
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+  font-size: 18px;
+  border-bottom: 1px solid #333;
+}
+
+.footer {
+  height: 50px;
+  background-color: #1e1e1e;
+  color: white;
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+  font-size: 18px;
+  border-bottom: 1px solid #333;
+}
+
+.main-grid {
+  display: grid;
+  grid-template-columns: 20% 60% 20%;
+  height: 600px;
+  position: relative;  /* Add this */
+  overflow: hidden;
+}
+
+.weather-panel {
+  background: #1e1e1e;
+  color: white;
+  overflow-y: auto;
+  padding: 10px;
+  border-right: 1px solid #444;
+}
+
+.map-panel {
+  position: relative;
+  height: 100%;  /* Set fixed height */
+  width: 100%;
+}
+
+.chart-panel {
+  background: #2a2a2a;
+  color: white;
+  padding: 10px;
+  border-left: 1px solid #444;
+}
+
+/* Event Panel */
+.event-panel {
+  background: #202020;
+  color: white;
+  padding: 12px;
+  font-size: 14px;
+  flex-grow: 1;
+  overflow-x: auto;
+  overflow-y: auto;
+}
+
+.event-table-wrapper {
+  overflow-x: auto;
+}
+
+.event-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+.event-table th,
+.event-table td {
+  border: 1px solid #444;
+  padding: 6px 10px;
+  text-align: left;
+  font-size: 13px;
+}
+
+.event-table th {
+  background-color: #2a2a2a;
+  font-weight: bold;
+}
+
+/* Other Panel */
+.other-panel {
+  background: #151515;
+  color: #aaa;
+  padding: 10px;
+  border-top: 1px solid #333;
+  height: 60px;
+}
+
+/* WatchOn Panel */
+
+/* Map */
+#root {
+  position: relative;  /* Change from absolute to relative */
+  min-height: 100vh;
+}
+
+.mapboxgl-canvas {
+  cursor: default !important;
+  top: 0;
+  left: 0;
+  height: 100% !important;
+  width: 100% !important;
+}
+
+#map-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 0;
+}
+
+.reset-button {
+  position: absolute;
+  bottom: 40px;
+  z-index: 1;
+  left: 12px;
+  padding: 4px 10px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+/* Event */ 
+.event-marker {
+  /* font-size: 20px;
+  line-height: 20px;
+  text-align: center;
+  cursor: pointer;
+  user-select: none; */
+  font-size: 20px;
+  width: 26px;
+  height: 26px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 3px solid transparent; 
+  border-radius: 50%;
+  background: transparent;
+  box-sizing: border-box;
+  color: black;
+  z-index: 0;
+}
+
+.emoji {
+  font-size: 18px;
+  margin-right: 6px;
+}
+
+.event-minor {
+  background-color: #fff708;
+}
+
+.event-moderate {
+  background-color: #e67e22;
+}
+
+.event-major {
+  background-color: #ff0c08;
+}
+
+.event-unknown {
+  background-color: gray;
+}
+
+/* Stations */ 
+.weather-marker {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  border: 2px solid white;
+  cursor: pointer; 
+}
+
+.dot {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  margin-right: 6px;
+}
+
+.green { background: #2ecc71; }
+.yellow { background: #f1c40f; }
+.red { background: #e63946; }
+.gray { background: #bdc3c7; }

@@ -1,0 +1,159 @@
+[
+	{
+		"title" : "Ski Resorts",
+		"name" : "ski-resorts",
+		"bcdc_data_resource_url" : "https://catalogue.data.gov.bc.ca/dataset/db1489d4-4304-4203-99bf-11b2b23179eb",
+		"description" : "Ski Resorts is a point dataset identifying the location of ski resorts in British Columbia.",
+		"purpose" : "The primary use of this data is to provide locational information for ski resorts in British Columbia.",
+		"bcdc_type" : "Geographic",
+		"last_modified" : "2025-04-02T05:02:33",
+		"resource_storage_location" : "Bc Geographic Warehouse",
+		"object_name" : "WHSE_IMAGERY_AND_BASE_MAPS.GSR_SKI_RESORTS_SV",
+		"object_short_name" : "SKI_RESORT",
+		"object_table_comments" : "GSR_SKI_RESORTS_SV is a spatially enabled layer comprising Ski Resorts. Ski Resorts is a point dataset identifying the location of ski resorts in British Columbia.",
+		"projection_name" : "epsg3005",
+		"license_title" : "Open Government Licence - British Columbia",
+		"license_url" : "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+		"details" : [
+			{
+				"column_comments" : "FACILITY_NAME is the name of the ski resort.",
+				"column_name" : "FACILITY_NAME",
+				"data_precision" : "500",
+				"data_type" : "VARCHAR2",
+				"short_name" : "FCLTY_NM"
+			},
+			{
+				"column_comments" : "KEYWORDS contains text strings supplied by the Custodian, to be used for search/query purposes. Keywords are separated by the ; delimiter.",
+				"column_name" : "KEYWORDS",
+				"data_precision" : "1000",
+				"data_type" : "VARCHAR2",
+				"short_name" : "KEYWORDS"
+			},
+			{
+				"column_comments" : "STREET_ADDRESS is a free form expression of the site descriptor (e.g., unit) and the civic building number / street / street indicator portion of an address, e.g., Unit 1, 123 Main Street East.",
+				"column_name" : "STREET_ADDRESS",
+				"data_precision" : "200",
+				"data_type" : "VARCHAR2",
+				"short_name" : "ST_ADDRESS"
+			},
+			{
+				"column_comments" : "LOCALITY is the name of the municipality, community, Federal Indian Reserve (IR), subdivision, regional district, indigenous land or natural feature the occupant site is located in, e.g., Victoria, Saanich IR 1, Capital Regional District.",
+				"column_name" : "LOCALITY",
+				"data_precision" : "100",
+				"data_type" : "VARCHAR2",
+				"short_name" : "LOCALITY"
+			},
+			{
+				"column_comments" : "MAILING_ADDRESS contains an address string, not a parsed address.  It is the address that will be displayed for presentation purposes, e.g., 32900 Marshall Road, Abbotsford, BC",
+				"column_name" : "MAILING_ADDRESS",
+				"data_precision" : "1000",
+				"data_type" : "VARCHAR2",
+				"short_name" : "MAIL_ADD"
+			},
+			{
+				"column_comments" : "WEBSITE_URL contains the link to the Home page of the Occupant's Website",
+				"column_name" : "WEBSITE_URL",
+				"data_precision" : "500",
+				"data_type" : "VARCHAR2",
+				"short_name" : "WEBSITE"
+			},
+			{
+				"column_comments" : "IMAGE_URL contains a full URL link to a picture of the Occupant's Location.",
+				"column_name" : "IMAGE_URL",
+				"data_precision" : "500",
+				"data_type" : "VARCHAR2",
+				"short_name" : "IMAGE_URL"
+			},
+			{
+				"column_comments" : "LATITUDE is the geographic coordinate, in decimal degrees (dd.dddddd), of the location of the feature as measured from the equator, e.g., 55.323653",
+				"column_name" : "LATITUDE",
+				"data_precision" : "9",
+				"data_type" : "NUMBER",
+				"short_name" : "LATITUDE"
+			},
+			{
+				"column_comments" : "LONGITUDE is the geographic coordinate, in decimal degrees (-ddd.dddddd), of the location of the feature as measured from the prime meridian, e.g., -123.093544",
+				"column_name" : "LONGITUDE",
+				"data_precision" : "10",
+				"data_type" : "NUMBER",
+				"short_name" : "LONGITUDE"
+			},
+			{
+				"column_comments" : "PHYSICAL_ADDRESS contains the civic or non-civic address as a single string, structured according to the specification of the Physical Address and Geocoding Standard, e.g., 420 GORGE RD E, VICTORIA, BC.",
+				"column_name" : "PHYSICAL_ADDRESS",
+				"data_precision" : "1000",
+				"data_type" : "VARCHAR2",
+				"short_name" : "ADDRESS"
+			},
+			{
+				"column_comments" : "DATE_UPDATED contains the date that the Occupant data was updated in the Occupant structure (system-generated)",
+				"column_name" : "DATE_UPDATED",
+				"data_precision" : "7",
+				"data_type" : "DATE",
+				"short_name" : "DT_UPDATE"
+			},
+			{
+				"column_comments" : "SITE_GEOCODED_IND contains a Flag/indicator (Y/N) that the Occupant Physical Address has been geo-coded by the DataBC Address Geocoder and the results provide a valid site address, e.g., Y, N",
+				"column_name" : "SITE_GEOCODED_IND",
+				"data_precision" : "1",
+				"data_type" : "VARCHAR2",
+				"short_name" : "GEOCD_IND"
+			},
+			{
+				"column_comments" : "SOURCE_DATA_ID is a unique occupant id either supplied by the source data system or produced by GSR, depending on the value of SUPPLIED_SOURCE_ID_IND",
+				"column_name" : "SOURCE_DATA_ID",
+				"data_precision" : "20",
+				"data_type" : "VARCHAR2",
+				"short_name" : "SRCDATA_ID"
+			},
+			{
+				"column_comments" : "CUSTODIAN_ORG_DESCRIPTION contains the name or description of the custodial organization (usually Ministry and Branch)",
+				"column_name" : "CUSTODIAN_ORG_DESCRIPTION",
+				"data_precision" : "200",
+				"data_type" : "VARCHAR2",
+				"short_name" : "CUST_ORG"
+			},
+			{
+				"column_comments" : "BUSINESS_CATEGORY_CLASS designates the category of business, i.e., SkiingFacilities",
+				"column_name" : "BUSINESS_CATEGORY_CLASS",
+				"data_precision" : "1000",
+				"data_type" : "VARCHAR2",
+				"short_name" : "BUS_CAT_CL"
+			},
+			{
+				"column_comments" : "BUSINESS_CATEGORY_DESCRIPTION describes the category of business, i.e., Skiing Facilities",
+				"column_name" : "BUSINESS_CATEGORY_DESCRIPTION",
+				"data_precision" : "1000",
+				"data_type" : "VARCHAR2",
+				"short_name" : "BUS_CAT_DS"
+			},
+			{
+				"column_comments" : "OCCUPANT_TYPE_DESCRIPTION contains the description of the occupant type, e.g. Hospital",
+				"column_name" : "OCCUPANT_TYPE_DESCRIPTION",
+				"data_precision" : "500",
+				"data_type" : "VARCHAR2",
+				"short_name" : "OCCPNT_TYP"
+			},
+			{
+				"column_comments" : "SHAPE is the column used to reference the spatial coordinates defining the feature.",
+				"column_name" : "SHAPE",
+				"data_precision" : "64",
+				"data_type" : "SDO_GEOMETRY",
+				"short_name" : "SHAPE"
+			},
+			{
+				"column_comments" : "SEQUENCE_ID contains a value to distinguish occupant instances. Where a single occupant can have multiple instances (representing different services, for example), this field distinguishes this occupant instance from other instances of the same or different occupants.",
+				"column_name" : "SEQUENCE_ID",
+				"data_precision" : "10",
+				"data_type" : "NUMBER",
+				"short_name" : "SEQ_ID"
+			},
+			{
+				"column_comments" : "SE_ANNO_CAD_DATA is a binary column used by spatial tools to store annotation, curve features and CAD data when using the SDO_GEOMETRY storage data type.",
+				"column_name" : "SE_ANNO_CAD_DATA",
+				"data_precision" : "4000",
+				"data_type" : "BLOB"
+			}
+		]
+	}
+]

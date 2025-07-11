@@ -1,0 +1,12 @@
+cd roadwatch\roadwatch
+
+Activate Virtual Environment: 
+roadwatch-env\Scripts\activate
+///
+Activate Backend:
+cd backend
+python app.py
+//
+Activate Frontend:
+cd frontend
+npm start

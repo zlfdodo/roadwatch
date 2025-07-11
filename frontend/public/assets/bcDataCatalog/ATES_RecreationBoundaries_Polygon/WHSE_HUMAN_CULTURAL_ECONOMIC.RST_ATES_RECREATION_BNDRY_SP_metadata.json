@@ -1,0 +1,81 @@
+[
+	{
+		"title" : "ATES Avalanche Terrain Exposure Scale Recreation Boundaries",
+		"name" : "ates-avalanche-terrain-exposure-scale-recreation-boundaries",
+		"bcdc_data_resource_url" : "https://catalogue.data.gov.bc.ca/dataset/1fbbf6e8-94d4-4051-833e-c89db5a2d210",
+		"description" : "Boundaries that represent a recreation area for snowmobiling or backcountry skiing that has had the Avalanche Terrain Exposure Scale (ATES) completed.",
+		"purpose" : "",
+		"bcdc_type" : "Geographic",
+		"resource_storage_location" : "Bc Geographic Warehouse",
+		"object_name" : "WHSE_HUMAN_CULTURAL_ECONOMIC.RST_ATES_RECREATION_BNDRY_SP",
+		"object_short_name" : "RSTTSRCRTN",
+		"object_table_comments" : "ATES RECREATION BNDRY SP represents the boundary of the recreation area that has had the Avalanche Terrain Exposure Scale (ATES) completed. The ATES was developed by Parks Canada to help backcountry users assess the severity of the terrain encountered in a given trip. It has three terrain classes that describe the exposure of terrain to potential avalanche hazard. ATES ratings are compiled by professionals who consider eleven weighted terrain parameters in ranking a trip or tour as Simple, Challenging, or Complex. This is a multipart polygon layer.",
+		"projection_name" : "epsg3005",
+		"license_title" : "Access Only",
+		"license_url" : "https://www2.gov.bc.ca/gov/content?id=1AAACC9C65754E4D89A118B875E0FBDA",
+		"details" : [
+			{
+				"column_comments" : "ATES RECREATION BNDRY ID is a system generated unique identification number. This is a primary key. e.g., 70",
+				"column_name" : "ATES_RECREATION_BNDRY_ID",
+				"data_precision" : "10",
+				"data_type" : "NUMBER",
+				"short_name" : "BNDRY_ID"
+			},
+			{
+				"column_comments" : "ATES RECREATION BNDRY NAME is the local community name for the recreation area. e.g., Boulder Mountain",
+				"column_name" : "ATES_RECREATION_BNDRY_NAME",
+				"data_precision" : "100",
+				"data_type" : "VARCHAR2",
+				"short_name" : "BNDRY_NAME"
+			},
+			{
+				"column_comments" : "ATES MAP PRODUCT TYPE refers to the map products created. e.g., Map, Sign, Brochure",
+				"column_name" : "ATES_MAP_PRODUCT_TYPE",
+				"data_precision" : "100",
+				"data_type" : "VARCHAR2",
+				"short_name" : "PROD_TYPE"
+			},
+			{
+				"column_comments" : "URL is the link to Canadian Avalanche Centre web site.",
+				"column_name" : "URL",
+				"data_precision" : "512",
+				"data_type" : "VARCHAR2",
+				"short_name" : "URL"
+			},
+			{
+				"column_comments" : "GEOMETRY is the column used to reference the spatial coordinates defining the feature. ",
+				"column_name" : "GEOMETRY",
+				"data_precision" : "1",
+				"data_type" : "SDO_GEOMETRY",
+				"short_name" : "GEOMETRY"
+			},
+			{
+				"column_comments" : "OBJECTID is a required attribute of feature classes and object classes in a geodatabase. ",
+				"column_name" : "OBJECTID",
+				"data_precision" : "38",
+				"data_type" : "NUMBER",
+				"short_name" : "OBJECTID"
+			},
+			{
+				"column_comments" : "SE_ANNO_CAD_DATA is a binary column used by spatial tools to store annotation, curve features and CAD data when using the SDO_GEOMETRY storage data type. ",
+				"column_name" : "SE_ANNO_CAD_DATA",
+				"data_precision" : "4000",
+				"data_type" : "BLOB"
+			},
+			{
+				"column_comments" : "FEATURE_AREA_SQM is the system calculated area of a two-dimensional polygon in square meters",
+				"column_name" : "FEATURE_AREA_SQM",
+				"data_precision" : "19",
+				"data_type" : "NUMBER",
+				"short_name" : "AREA_SQM"
+			},
+			{
+				"column_comments" : "FEATURE_LENGTH_M is the system calculated length or perimeter of a geometry in meters",
+				"column_name" : "FEATURE_LENGTH_M",
+				"data_precision" : "19",
+				"data_type" : "NUMBER",
+				"short_name" : "FEAT_LEN"
+			}
+		]
+	}
+]

@@ -1,0 +1,43 @@
+✅ Phase 1: Core Functionality – Real-Time Monitoring
+Goal: Display current hazard levels on Sea-to-Sky Hwy using live data.
+
+Tasks:
+- API Integration
+    - Fetch current road events & conditions from Open511–DriveBC.
+    - Get current weather observations (snowfall, temperature, wind) from DriveBC or Open-Meteo.
+
+- Road Segmentation
+    - Split the Sea-to-Sky Hwy into ~5–10 key segments (e.g., West Van → Lions Bay → Squamish → Function Junction → Whistler Village).
+    - Manually define segment start/end lat/lon for now.
+
+- Simple Hazard Classification
+    - Rule-based logic: e.g.,
+        - python
+            if snow_depth > 5cm and temperature < 0:
+                hazard = "Red"
+            elif rain and temp < 1:
+                hazard = "Yellow"
+            else:
+                hazard = "Green"
+
+- Web Dashboard
+    - Use React to show:
+        - A clean map with color-coded segments
+        - Timestamped data update info
+        - Weather + condition summaries per segment
+
+🚀 Phase 2: Short-Term Forecast
+Goal: Add next-12-hour hazard forecast using Open-Meteo hourly forecasts.
+
+Tasks:
+- Pull hourly forecasts for segment midpoints (or interpolate).
+
+- Apply the same rule-based logic to future hours.
+
+- Add a forecast slider/timeline to dashboard:
+    “What will conditions look like at 9am, 12pm, 3pm?”
+
+🧠 Phase 3: ML Prediction (Optional/Future)
+Use ML later to:
+    - Replace rule-based classification with data-driven hazard scoring.
+    - Predict incidents/closures based on weather + historical alerts.

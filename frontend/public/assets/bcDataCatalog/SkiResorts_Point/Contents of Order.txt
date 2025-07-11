@@ -1,0 +1,14 @@
+------------------
+Order Details
+-----------------
+Order ID: 2471402
+Date: 20250627
+
+----------------------
+Feature Types
+-----------------------
+ - Ski Resorts in subdirectory GSR_SKI_RESORTS_SV
+
+----------------------------
+Packaged Products
+----------------------------

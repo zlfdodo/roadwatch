@@ -1,0 +1,3806 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.1914400006, 49.40431 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 834,
+				"STATION_CODE" : "11121",
+				"STATION_NAME" : "MT. STRACHAN PRECIP",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 49.40431,
+				"LONGITUDE" : -123.19144,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 298,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.1963600007, 49.4100299996 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 805,
+				"STATION_CODE" : "11122",
+				"STATION_NAME" : "MT. STRACHAN",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 49.41003,
+				"LONGITUDE" : -123.19636,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 299,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2398499995, 49.5467099997 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3685,
+				"STATION_CODE" : "11128",
+				"STATION_NAME" : "Porteau Cove",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 49.54671,
+				"LONGITUDE" : -123.23985,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 300,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.81191, 49.2173199999 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3382,
+				"STATION_CODE" : "14091",
+				"STATION_NAME" : "Port Mann Bridge South Tower",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 49.21732,
+				"LONGITUDE" : -122.81191,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 301,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9439200005, 49.1618699999 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3763,
+				"STATION_CODE" : "14096",
+				"STATION_NAME" : "Alex Fraser Top",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 49.16187,
+				"LONGITUDE" : -122.94392,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 302,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9439099998, 49.1617999997 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3764,
+				"STATION_CODE" : "14097",
+				"STATION_NAME" : "Alex Fraser Cross Beam",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 49.1618,
+				"LONGITUDE" : -122.94391,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 303,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9515999996, 49.1715299999 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3782,
+				"STATION_CODE" : "14098",
+				"STATION_NAME" : "Annacis Island",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 49.17153,
+				"LONGITUDE" : -122.9516,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 304,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -121.0841700006, 49.2299999997 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 828,
+				"STATION_CODE" : "15321",
+				"STATION_NAME" : "FOUNDATION MINES",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 49.23,
+				"LONGITUDE" : -121.08417,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 305,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -121.42889, 49.3474999999 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3463,
+				"STATION_CODE" : "15371",
+				"STATION_NAME" : "Hope Mountain Repeater",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 49.3475,
+				"LONGITUDE" : -121.42889,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 306,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -119.9008000004, 49.3969299997 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 865,
+				"STATION_CODE" : "24126",
+				"STATION_NAME" : "APEX ROADSIDE",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 49.39693,
+				"LONGITUDE" : -119.9008,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 307,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -121.1780499998, 49.5958200004 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 825,
+				"STATION_CODE" : "25225",
+				"STATION_NAME" : "GREAT BEAR",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 49.59582,
+				"LONGITUDE" : -121.17805,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 308,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -121.1780100004, 49.5992399998 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 809,
+				"STATION_CODE" : "25229",
+				"STATION_NAME" : "LITTLE BEAR",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 49.59924,
+				"LONGITUDE" : -121.17801,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 309,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.1883100005, 50.8138600003 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3282,
+				"STATION_CODE" : "26124",
+				"STATION_NAME" : "Bluenose",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 50.81386,
+				"LONGITUDE" : -122.18831,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 310,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.8362500003, 50.8544199997 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3688,
+				"STATION_CODE" : "26125",
+				"STATION_NAME" : "Gold Bridge",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 50.85442,
+				"LONGITUDE" : -122.83625,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 311,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.25556, 50.4069399999 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 816,
+				"STATION_CODE" : "26221",
+				"STATION_NAME" : "BLOWDOWN PEAK",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 50.40694,
+				"LONGITUDE" : -122.25556,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 312,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.2647200006, 50.4022199997 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 807,
+				"STATION_CODE" : "26222",
+				"STATION_NAME" : "BLOWDOWN MID",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 50.40222,
+				"LONGITUDE" : -122.26472,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 313,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58944, 50.3591700003 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3203,
+				"STATION_CODE" : "26271",
+				"STATION_NAME" : "Cassiope Repeater",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 50.35917,
+				"LONGITUDE" : -122.58944,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 314,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -121.8616699997, 50.7399999999 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3142,
+				"STATION_CODE" : "26501",
+				"STATION_NAME" : "Fountain Slide",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 50.74,
+				"LONGITUDE" : -121.86167,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 315,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.4431600004, 50.6233100004 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 4202,
+				"STATION_CODE" : "26521",
+				"STATION_NAME" : "Highline",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 50.62331,
+				"LONGITUDE" : -122.44316,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 316,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -121.5295000002, 51.1928699996 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3804,
+				"STATION_CODE" : "28072",
+				"STATION_NAME" : "Chasm Road",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 51.19287,
+				"LONGITUDE" : -121.5295,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 317,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.1611100026, 49.4177799898 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 969,
+				"STATION_CODE" : "31321",
+				"STATION_NAME" : "SOUTHRIDGE",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 49.41778,
+				"LONGITUDE" : -117.16111,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 318,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -118.1093600003, 49.1599699979 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 833,
+				"STATION_CODE" : "33121",
+				"STATION_NAME" : "BLUEBERRY",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 49.15997,
+				"LONGITUDE" : -118.10936,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 319,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.180990003, 50.0222999903 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3504,
+				"STATION_CODE" : "34127",
+				"STATION_NAME" : "Dardanelle",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 50.0223,
+				"LONGITUDE" : -117.18099,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 320,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.2348100015, 50.0458899911 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 782,
+				"STATION_CODE" : "34128",
+				"STATION_NAME" : "LONDON RIDGE LOW",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 50.04589,
+				"LONGITUDE" : -117.23481,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 321,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -116.9675000042, 50.1541699869 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 845,
+				"STATION_CODE" : "34224",
+				"STATION_NAME" : "LARDEAU",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 50.15417,
+				"LONGITUDE" : -116.9675,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 322,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.0802800025, 50.2488899886 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3223,
+				"STATION_CODE" : "34225",
+				"STATION_NAME" : "Lardeau High",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 50.24889,
+				"LONGITUDE" : -117.08028,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 323,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -115.0468900493, 49.3725398784 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 4162,
+				"STATION_CODE" : "36125",
+				"STATION_NAME" : "Morrissey High",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 49.37254,
+				"LONGITUDE" : -115.04689,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 324,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -116.878470004, 51.3151399852 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 812,
+				"STATION_CODE" : "37121",
+				"STATION_NAME" : "KICKING HORSE",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 51.31514,
+				"LONGITUDE" : -116.87847,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 325,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -116.8846700043, 51.3105599852 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 849,
+				"STATION_CODE" : "37122",
+				"STATION_NAME" : "KICKING HORSE SOLAR",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 51.31056,
+				"LONGITUDE" : -116.88467,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 326,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -116.8850700044, 51.3058199851 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3562,
+				"STATION_CODE" : "37124",
+				"STATION_NAME" : "Black Wall",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 51.30582,
+				"LONGITUDE" : -116.88507,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 327,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -116.2567400112, 50.4514699681 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 971,
+				"STATION_CODE" : "37221",
+				"STATION_NAME" : "TOBY CREEK",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 50.45147,
+				"LONGITUDE" : -116.25674,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 328,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -116.3200000101, 50.4336099703 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3123,
+				"STATION_CODE" : "37222",
+				"STATION_NAME" : "Little Dragon",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 50.43361,
+				"LONGITUDE" : -116.32,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 329,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -116.3196000105, 50.43047997 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3682,
+				"STATION_CODE" : "37223",
+				"STATION_NAME" : "Little Dragon Snow",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 50.43048,
+				"LONGITUDE" : -116.3196,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 330,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -118.2287200007, 51.0000599979 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3524,
+				"STATION_CODE" : "38021",
+				"STATION_NAME" : "Revelstoke Yard",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 51.00006,
+				"LONGITUDE" : -118.22872,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 331,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -118.40227, 50.9310699982 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 4283,
+				"STATION_CODE" : "38122",
+				"STATION_NAME" : "Victor Main",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 50.93107,
+				"LONGITUDE" : -118.40227,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 332,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -118.3189000005, 50.9345399984 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3904,
+				"STATION_CODE" : "38171",
+				"STATION_NAME" : "Macpherson Repeater",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 50.93454,
+				"LONGITUDE" : -118.3189,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 333,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.7711100008, 51.1933299961 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 822,
+				"STATION_CODE" : "38222",
+				"STATION_NAME" : "CORBIN PASS LOW",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 51.19333,
+				"LONGITUDE" : -117.77111,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 334,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.7777800005, 51.2008299961 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 821,
+				"STATION_CODE" : "38226",
+				"STATION_NAME" : "CORBIN PASS HIGH",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 51.20083,
+				"LONGITUDE" : -117.77778,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 335,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.7108300009, 51.1899199954 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3062,
+				"STATION_CODE" : "38228",
+				"STATION_NAME" : "LAURIE",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 51.18992,
+				"LONGITUDE" : -117.71083,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 336,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -118.4616700007, 51.5183299988 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 776,
+				"STATION_CODE" : "38323",
+				"STATION_NAME" : "CARIBOU RIDGE",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 51.51833,
+				"LONGITUDE" : -118.46167,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 337,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -118.5708300003, 52.0402799992 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 829,
+				"STATION_CODE" : "38325",
+				"STATION_NAME" : "FRED LAING RIDGE",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 52.04028,
+				"LONGITUDE" : -118.57083,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 338,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -118.5854300007, 52.053069999 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3185,
+				"STATION_CODE" : "38327",
+				"STATION_NAME" : "Fred Laing Lower",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 52.05307,
+				"LONGITUDE" : -118.58543,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 339,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -118.3306999997, 51.4521699982 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3903,
+				"STATION_CODE" : "38371",
+				"STATION_NAME" : "Keystone Repeater",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 51.45217,
+				"LONGITUDE" : -118.3307,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 340,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -118.7273999998, 50.8248699992 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3905,
+				"STATION_CODE" : "38372",
+				"STATION_NAME" : "Script Repeater",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 50.82487,
+				"LONGITUDE" : -118.7274,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 341,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.7550000012, 50.7080599957 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 830,
+				"STATION_CODE" : "38424",
+				"STATION_NAME" : "GALENA PASS",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 50.70806,
+				"LONGITUDE" : -117.755,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 342,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.9024000006, 50.7201499963 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3906,
+				"STATION_CODE" : "38471",
+				"STATION_NAME" : "Sprout Repeater",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 50.72015,
+				"LONGITUDE" : -117.9024,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 343,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.0838900021, 49.0716099891 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 795,
+				"STATION_CODE" : "39123",
+				"STATION_NAME" : "STAGLEAP",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 49.07161,
+				"LONGITUDE" : -117.08389,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 344,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.0021800031, 49.0764399873 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3842,
+				"STATION_CODE" : "39124",
+				"STATION_NAME" : "Crags Ridge",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 49.07644,
+				"LONGITUDE" : -117.00218,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 345,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -121.4788899995, 53.1566699999 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 854,
+				"STATION_CODE" : "42121",
+				"STATION_NAME" : "SLIDING MOUNTAIN",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 53.15667,
+				"LONGITUDE" : -121.47889,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 346,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -121.5045900001, 53.1543399999 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3862,
+				"STATION_CODE" : "42122",
+				"STATION_NAME" : "Sliding Mountain Precip",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 53.15434,
+				"LONGITUDE" : -121.50459,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 347,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -119.1966699999, 53.0113899997 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 2541,
+				"STATION_CODE" : "46182",
+				"STATION_NAME" : "CN Overlander",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 53.01139,
+				"LONGITUDE" : -119.19667,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 348,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -126.7717799994, 52.35569 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 831,
+				"STATION_CODE" : "47121",
+				"STATION_NAME" : "BELLA COOLA",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 52.35569,
+				"LONGITUDE" : -126.77178,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 349,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -125.8744900004, 52.4346999998 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 840,
+				"STATION_CODE" : "47122",
+				"STATION_NAME" : "HECKMAN PASS",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 52.4347,
+				"LONGITUDE" : -125.87449,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 350,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -126.7543500007, 52.3705499999 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3186,
+				"STATION_CODE" : "47123",
+				"STATION_NAME" : "Bella Coola Precip",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 52.37055,
+				"LONGITUDE" : -126.75435,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 351,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -129.5264199881, 56.1199999748 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 666,
+				"STATION_CODE" : "51124",
+				"STATION_NAME" : "WINDY POINT UPPER",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 56.12,
+				"LONGITUDE" : -129.52642,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 352,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -129.7516699835, 56.0997199669 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 671,
+				"STATION_CODE" : "51125",
+				"STATION_NAME" : "DISRAELI",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 56.09972,
+				"LONGITUDE" : -129.75167,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 353,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -129.5121799888, 56.0998699753 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 850,
+				"STATION_CODE" : "51126",
+				"STATION_NAME" : "ENDGOAL",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 56.09987,
+				"LONGITUDE" : -129.51218,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 354,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -129.6538899862, 56.106309971 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 852,
+				"STATION_CODE" : "51127",
+				"STATION_NAME" : "SUMMIT SLUFF WIND",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 56.10631,
+				"LONGITUDE" : -129.65389,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 355,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -129.632969987, 56.103469972 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 853,
+				"STATION_CODE" : "51128",
+				"STATION_NAME" : "KETTLE HOLE",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 56.10347,
+				"LONGITUDE" : -129.63297,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 356,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -129.9826399779, 55.9480799571 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 2481,
+				"STATION_CODE" : "51129",
+				"STATION_NAME" : "Stewart",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 55.94808,
+				"LONGITUDE" : -129.98264,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 357,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -129.5152699891, 56.1102399752 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3583,
+				"STATION_CODE" : "51137",
+				"STATION_NAME" : "Windy Point Lower Snow",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 56.11024,
+				"LONGITUDE" : -129.51527,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 358,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -129.4433299901, 54.3016099779 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 667,
+				"STATION_CODE" : "52322",
+				"STATION_NAME" : "KASIKS HIGH",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 54.30161,
+				"LONGITUDE" : -129.44333,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 359,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -129.4183299908, 54.3036099786 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 668,
+				"STATION_CODE" : "52325",
+				"STATION_NAME" : "KASIKS LOW",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 54.30361,
+				"LONGITUDE" : -129.41833,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 360,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -128.953669995, 54.4867099884 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3124,
+				"STATION_CODE" : "52401",
+				"STATION_NAME" : "Shames",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 54.48671,
+				"LONGITUDE" : -128.95367,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 361,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -129.7763599842, 55.010329966 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 874,
+				"STATION_CODE" : "52521",
+				"STATION_NAME" : "IKNOUK",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 55.01033,
+				"LONGITUDE" : -129.77636,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 362,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -129.8812599827, 55.0018599615 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3088,
+				"STATION_CODE" : "52522",
+				"STATION_NAME" : "Iknouk Road",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 55.00186,
+				"LONGITUDE" : -129.88126,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 363,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -129.972529978, 56.7766699578 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 670,
+				"STATION_CODE" : "53122",
+				"STATION_NAME" : "SNOWBANK MID",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 56.77667,
+				"LONGITUDE" : -129.97253,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 364,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -130.1069399742, 56.9466699504 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 875,
+				"STATION_CODE" : "53123",
+				"STATION_NAME" : "GAMMA",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 56.94667,
+				"LONGITUDE" : -130.10694,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 365,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -129.934999979, 56.753889959 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 2883,
+				"STATION_CODE" : "53125",
+				"STATION_NAME" : "SNOWBANK ROAD",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 56.75389,
+				"LONGITUDE" : -129.935,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 366,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -130.0904999734, 56.9286699511 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 2882,
+				"STATION_CODE" : "53126",
+				"STATION_NAME" : "CARL'S CORNER",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 56.92867,
+				"LONGITUDE" : -130.0905,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 367,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -130.094999974, 56.9508299516 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3042,
+				"STATION_CODE" : "53127",
+				"STATION_NAME" : "Gamma High",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 56.95083,
+				"LONGITUDE" : -130.095,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 368,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -129.9751899776, 56.7954399577 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3043,
+				"STATION_CODE" : "53128",
+				"STATION_NAME" : "Revision",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 56.79544,
+				"LONGITUDE" : -129.97519,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 369,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -129.9861699757, 58.4342499568 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3625,
+				"STATION_CODE" : "53129",
+				"STATION_NAME" : "Dease Lake RAWS",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 58.43425,
+				"LONGITUDE" : -129.98617,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 370,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -129.6572199843, 59.2491699711 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 1602,
+				"STATION_CODE" : "53221",
+				"STATION_NAME" : "Jade City",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 59.24917,
+				"LONGITUDE" : -129.65722,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 371,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -129.6183299842, 59.2586099723 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 2624,
+				"STATION_CODE" : "53222",
+				"STATION_NAME" : "Jade City Wind Site",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 59.25861,
+				"LONGITUDE" : -129.61833,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 372,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -131.1311099055, 57.9127798541 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 1603,
+				"STATION_CODE" : "53321",
+				"STATION_NAME" : "Telegraph",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RAWS",
+				"LATITUDE" : 57.91278,
+				"LONGITUDE" : -131.13111,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 373,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.1180600004, 50.0541699997 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 961,
+				"STATION_CODE" : "11091",
+				"STATION_NAME" : "BRANDYWINE",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 50.05417,
+				"LONGITUDE" : -123.11806,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 374,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.1433899993, 49.8434699999 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3103,
+				"STATION_CODE" : "11092",
+				"STATION_NAME" : "Tantalus",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.84347,
+				"LONGITUDE" : -123.14339,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 375,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2696900005, 49.3718599998 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3106,
+				"STATION_CODE" : "11191",
+				"STATION_NAME" : "Eagle Ridge",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.37186,
+				"LONGITUDE" : -123.26969,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 376,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.8119400005, 49.2177800002 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3422,
+				"STATION_CODE" : "14092",
+				"STATION_NAME" : "Port Mann Bridge Mid Span",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.21778,
+				"LONGITUDE" : -122.81194,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 377,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.8020200002, 49.2052800003 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3443,
+				"STATION_CODE" : "14093",
+				"STATION_NAME" : "Port Mann Bridge Johnson Hill",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.20528,
+				"LONGITUDE" : -122.80202,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 378,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.0794700004, 49.12671 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3506,
+				"STATION_CODE" : "14094",
+				"STATION_NAME" : "Ricemill Road",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.12671,
+				"LONGITUDE" : -123.07947,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 379,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9430799997, 49.1600300003 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3507,
+				"STATION_CODE" : "14095",
+				"STATION_NAME" : "Alex Fraser Bridge",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.16003,
+				"LONGITUDE" : -122.94308,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 380,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.4252799999, 49.0755600002 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 2602,
+				"STATION_CODE" : "15092",
+				"STATION_NAME" : "Bradner Road",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.07556,
+				"LONGITUDE" : -122.42528,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 381,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -121.3563799995, 49.3628999997 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 1001,
+				"STATION_CODE" : "15093",
+				"STATION_NAME" : "Nicolum Creek",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.3629,
+				"LONGITUDE" : -121.35638,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 382,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -121.4180299999, 49.75703 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 2982,
+				"STATION_CODE" : "15122",
+				"STATION_NAME" : "Hells Gate Roadside",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.75703,
+				"LONGITUDE" : -121.41803,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 383,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -121.5474999993, 50.0761100002 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 870,
+				"STATION_CODE" : "15124",
+				"STATION_NAME" : "JACKASS",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 50.07611,
+				"LONGITUDE" : -121.5475,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 384,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -121.44472, 49.8694400001 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 980,
+				"STATION_CODE" : "15181",
+				"STATION_NAME" : "CN BOSTON BAR",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.86944,
+				"LONGITUDE" : -121.44472,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 385,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -121.4027800006, 49.5819400003 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 1081,
+				"STATION_CODE" : "15182",
+				"STATION_NAME" : "CPR Saddle Rock",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.58194,
+				"LONGITUDE" : -121.40278,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 386,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -121.4116699995, 49.6994399998 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 1082,
+				"STATION_CODE" : "15183",
+				"STATION_NAME" : "CPR Spuzzum",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.69944,
+				"LONGITUDE" : -121.41167,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 387,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.8674399998, 49.11564 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 1101,
+				"STATION_CODE" : "15392",
+				"STATION_NAME" : "Allison Pass",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.11564,
+				"LONGITUDE" : -120.86744,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 388,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.5678400006, 49.1660899999 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 4182,
+				"STATION_CODE" : "15394",
+				"STATION_NAME" : "Similkameen Falls",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.16609,
+				"LONGITUDE" : -120.56784,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 389,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.4798799999, 50.5289700001 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 976,
+				"STATION_CODE" : "21091",
+				"STATION_NAME" : "WALLOPER",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 50.52897,
+				"LONGITUDE" : -120.47988,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 390,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.1358200003, 51.1127099997 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 922,
+				"STATION_CODE" : "21123",
+				"STATION_NAME" : "BARRIERE",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 51.11271,
+				"LONGITUDE" : -120.13582,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 391,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -119.5657499997, 51.6697699998 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 4102,
+				"STATION_CODE" : "21192",
+				"STATION_NAME" : "Mad River",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 51.66977,
+				"LONGITUDE" : -119.56575,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 392,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -119.0793399993, 50.7895799994 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3684,
+				"STATION_CODE" : "22095",
+				"STATION_NAME" : "Annis Pit",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 50.78958,
+				"LONGITUDE" : -119.07934,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 393,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -118.7886600005, 50.934159999 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 880,
+				"STATION_CODE" : "22096",
+				"STATION_NAME" : "MALAKWA",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 50.93416,
+				"LONGITUDE" : -118.78866,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 394,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -119.5711100002, 50.8727799997 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 860,
+				"STATION_CODE" : "22123",
+				"STATION_NAME" : "SQUILAX",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 50.87278,
+				"LONGITUDE" : -119.57111,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 395,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -119.3060700007, 50.2111999998 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 881,
+				"STATION_CODE" : "23097",
+				"STATION_NAME" : "KALAMALKA LOOKOUT",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 50.2112,
+				"LONGITUDE" : -119.30607,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 396,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -119.76194, 49.4783299999 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 2842,
+				"STATION_CODE" : "24091",
+				"STATION_NAME" : "Penticton Test Site 1",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.47833,
+				"LONGITUDE" : -119.76194,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 397,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.2629899999, 49.4061600001 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3703,
+				"STATION_CODE" : "24093",
+				"STATION_NAME" : "Bromley Rock",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.40616,
+				"LONGITUDE" : -120.26299,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 398,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -119.72846, 49.3424699998 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3922,
+				"STATION_CODE" : "24191",
+				"STATION_NAME" : "Yellow Lake",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.34247,
+				"LONGITUDE" : -119.72846,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 399,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.6243099996, 49.4761899997 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 864,
+				"STATION_CODE" : "24225",
+				"STATION_NAME" : "RED BLUFFS",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.47619,
+				"LONGITUDE" : -120.62431,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 400,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.6366100007, 50.3208299997 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 876,
+				"STATION_CODE" : "25092",
+				"STATION_NAME" : "HELMER LAKE",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 50.32083,
+				"LONGITUDE" : -120.63661,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 401,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.9349999999, 49.83111 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 962,
+				"STATION_CODE" : "25093",
+				"STATION_NAME" : "LARSON HILL",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.83111,
+				"LONGITUDE" : -120.935,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 402,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.5987000004, 50.4399899998 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3642,
+				"STATION_CODE" : "25094",
+				"STATION_NAME" : "Desmond Hill",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 50.43999,
+				"LONGITUDE" : -120.5987,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 403,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.8360799999, 50.0174900001 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3643,
+				"STATION_CODE" : "25095",
+				"STATION_NAME" : "Comstock",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 50.01749,
+				"LONGITUDE" : -120.83608,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 404,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -121.09948, 49.5941000004 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 846,
+				"STATION_CODE" : "25221",
+				"STATION_NAME" : "COQUIHALLA SUMMIT",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.5941,
+				"LONGITUDE" : -121.09948,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 405,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -121.2597199993, 50.7386100004 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 981,
+				"STATION_CODE" : "26081",
+				"STATION_NAME" : "CN ASHCROFT",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 50.73861,
+				"LONGITUDE" : -121.25972,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 406,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.47403, 50.3797800001 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 863,
+				"STATION_CODE" : "26224",
+				"STATION_NAME" : "CAYOOSH SUMMIT",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 50.37978,
+				"LONGITUDE" : -122.47403,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 407,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -121.5016200006, 51.1469300005 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3803,
+				"STATION_CODE" : "28071",
+				"STATION_NAME" : "Big Bar",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 51.14693,
+				"LONGITUDE" : -121.50162,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 408,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -121.3708300007, 51.4761099998 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 963,
+				"STATION_CODE" : "28093",
+				"STATION_NAME" : "BEGBIE SUMMIT",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 51.47611,
+				"LONGITUDE" : -121.37083,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 409,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.0133599996, 49.9067200001 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 877,
+				"STATION_CODE" : "29092",
+				"STATION_NAME" : "PENNASK SUMMIT",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.90672,
+				"LONGITUDE" : -120.01336,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 410,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.5463699998, 49.9395100004 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3690,
+				"STATION_CODE" : "29093",
+				"STATION_NAME" : "Pothole Lake",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.93951,
+				"LONGITUDE" : -120.54637,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 411,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -119.93686, 49.8697299999 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3689,
+				"STATION_CODE" : "29094",
+				"STATION_NAME" : "Brenda Mine",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.86973,
+				"LONGITUDE" : -119.93686,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 412,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.2425000013, 49.3733299909 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 964,
+				"STATION_CODE" : "31091",
+				"STATION_NAME" : "HALL CREEK",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.37333,
+				"LONGITUDE" : -117.2425,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 413,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.4198600013, 49.4877199929 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3184,
+				"STATION_CODE" : "31092",
+				"STATION_NAME" : "Beasley Bluffs",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.48772,
+				"LONGITUDE" : -117.41986,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 414,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.4400100013, 49.1870799929 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3503,
+				"STATION_CODE" : "32091",
+				"STATION_NAME" : "Meadows Junction",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.18708,
+				"LONGITUDE" : -117.44001,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 415,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.896640001, 49.2049999967 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 929,
+				"STATION_CODE" : "32221",
+				"STATION_NAME" : "STRAWBERRY PASS",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.205,
+				"LONGITUDE" : -117.89664,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 416,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -119.3145800005, 49.0051999998 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 965,
+				"STATION_CODE" : "33093",
+				"STATION_NAME" : "ANARCHIST SUMMIT",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.0052,
+				"LONGITUDE" : -119.31458,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 417,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -118.5302099998, 49.1481799988 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 4082,
+				"STATION_CODE" : "33095",
+				"STATION_NAME" : "Eholt",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.14818,
+				"LONGITUDE" : -118.53021,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 418,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -119.1263900004, 49.7577800001 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 923,
+				"STATION_CODE" : "33099",
+				"STATION_NAME" : "MCCULLOCH",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.75778,
+				"LONGITUDE" : -119.12639,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 419,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -118.0520500004, 49.2436799977 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 861,
+				"STATION_CODE" : "33122",
+				"STATION_NAME" : "PAULSON SUMMIT",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.24368,
+				"LONGITUDE" : -118.05205,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 420,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -118.3970500004, 50.0509299988 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3502,
+				"STATION_CODE" : "34091",
+				"STATION_NAME" : "Monashee Pass",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 50.05093,
+				"LONGITUDE" : -118.39705,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 421,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.1791400025, 50.04630999 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 924,
+				"STATION_CODE" : "34126",
+				"STATION_NAME" : "FISH LAKE",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 50.04631,
+				"LONGITUDE" : -117.17914,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 422,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -116.9072400043, 49.7144099861 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 847,
+				"STATION_CODE" : "34621",
+				"STATION_NAME" : "COFFEE CREEK",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.71441,
+				"LONGITUDE" : -116.90724,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 423,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.5925000007, 50.1474999946 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 2501,
+				"STATION_CODE" : "34791",
+				"STATION_NAME" : "Summit Lake",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 50.1475,
+				"LONGITUDE" : -117.5925,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 424,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -115.7611100204, 49.9944399429 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 871,
+				"STATION_CODE" : "35091",
+				"STATION_NAME" : "CANAL FLATS",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.99444,
+				"LONGITUDE" : -115.76111,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 425,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -115.8288900184, 49.3261099474 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 973,
+				"STATION_CODE" : "35092",
+				"STATION_NAME" : "MOYIE",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.32611,
+				"LONGITUDE" : -115.82889,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 426,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -115.9677900157, 49.6611499548 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3686,
+				"STATION_CODE" : "35093",
+				"STATION_NAME" : "Kimberley",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.66115,
+				"LONGITUDE" : -115.96779,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 427,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -116.0087700145, 49.1720299568 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3826,
+				"STATION_CODE" : "35094",
+				"STATION_NAME" : "Irishman",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.17203,
+				"LONGITUDE" : -116.00877,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 428,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -115.0230600514, 49.3899998757 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 872,
+				"STATION_CODE" : "36124",
+				"STATION_NAME" : "MORRISSEY",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.39,
+				"LONGITUDE" : -115.02306,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 429,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -114.8905000622, 49.8837398577 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3543,
+				"STATION_CODE" : "36191",
+				"STATION_NAME" : "Line Creek",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.88374,
+				"LONGITUDE" : -114.8905,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 430,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -114.7128600746, 49.6501898306 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3542,
+				"STATION_CODE" : "36192",
+				"STATION_NAME" : "Crowsnest",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.65019,
+				"LONGITUDE" : -114.71286,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 431,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -115.524560027, 49.4743999264 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 4222,
+				"STATION_CODE" : "36195",
+				"STATION_NAME" : "Steamboat",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.4744,
+				"LONGITUDE" : -115.52456,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 432,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -116.1764000121, 50.7381999642 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 975,
+				"STATION_CODE" : "37091",
+				"STATION_NAME" : "VERMILLION PIT",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 50.7382,
+				"LONGITUDE" : -116.1764,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 433,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.4217900023, 51.5069999927 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 1582,
+				"STATION_CODE" : "37092",
+				"STATION_NAME" : "Nordic 2",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 51.507,
+				"LONGITUDE" : -117.42179,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 434,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.3599200025, 51.4784599925 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 2862,
+				"STATION_CODE" : "37093",
+				"STATION_NAME" : "Quartz Creek",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 51.47846,
+				"LONGITUDE" : -117.35992,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 435,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -116.7665300059, 51.2748299827 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3003,
+				"STATION_CODE" : "37126",
+				"STATION_NAME" : "Top of Ten Mile 2",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 51.27483,
+				"LONGITUDE" : -116.76653,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 436,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.0642700028, 51.4295999886 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3683,
+				"STATION_CODE" : "37191",
+				"STATION_NAME" : "Blaeberry",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 51.4296,
+				"LONGITUDE" : -117.06427,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 437,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -116.5351600079, 51.0273199769 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3944,
+				"STATION_CODE" : "37192",
+				"STATION_NAME" : "Quinn Creek",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 51.02732,
+				"LONGITUDE" : -116.53516,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 438,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -116.2334800111, 50.4634299672 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3828,
+				"STATION_CODE" : "37291",
+				"STATION_NAME" : "Panorama",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 50.46343,
+				"LONGITUDE" : -116.23348,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 439,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -118.3777700007, 50.9624799981 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 925,
+				"STATION_CODE" : "38124",
+				"STATION_NAME" : "CLANWILLIAM",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 50.96248,
+				"LONGITUDE" : -118.37777,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 440,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.7561600004, 51.1880799953 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 926,
+				"STATION_CODE" : "38227",
+				"STATION_NAME" : "ALBERT CANYON",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 51.18808,
+				"LONGITUDE" : -117.75616,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 441,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -118.6011100006, 51.5991699993 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 2341,
+				"STATION_CODE" : "38324",
+				"STATION_NAME" : "50 Mile",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 51.59917,
+				"LONGITUDE" : -118.60111,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 442,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -118.5622200007, 51.9577799986 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 927,
+				"STATION_CODE" : "38326",
+				"STATION_NAME" : "MICA",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 51.95778,
+				"LONGITUDE" : -118.56222,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 443,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -118.0679500005, 50.808559997 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3982,
+				"STATION_CODE" : "38491",
+				"STATION_NAME" : "Blanket",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 50.80856,
+				"LONGITUDE" : -118.06795,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 444,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.0400000031, 49.0580599886 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 855,
+				"STATION_CODE" : "39121",
+				"STATION_NAME" : "KOOTENAY PASS",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.05806,
+				"LONGITUDE" : -117.04,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 445,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -116.1694700105, 49.1093299643 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3943,
+				"STATION_CODE" : "39291",
+				"STATION_NAME" : "Goatfell",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.10933,
+				"LONGITUDE" : -116.16947,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 446,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.5070899998, 53.4398800002 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 974,
+				"STATION_CODE" : "41091",
+				"STATION_NAME" : "WEST TWIN CREEK",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 53.43988,
+				"LONGITUDE" : -120.50709,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 447,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.6569399993, 55.5011099996 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 1021,
+				"STATION_CODE" : "41092",
+				"STATION_NAME" : "LINK CREEK",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 55.50111,
+				"LONGITUDE" : -122.65694,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 448,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9274999999, 54.9038899999 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 1022,
+				"STATION_CODE" : "41093",
+				"STATION_NAME" : "WHISKERS POINT",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 54.90389,
+				"LONGITUDE" : -122.9275,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 449,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.1322200002, 53.8313900004 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 1570,
+				"STATION_CODE" : "41094",
+				"STATION_NAME" : "Tamarack",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 53.83139,
+				"LONGITUDE" : -123.13222,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 450,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -121.1363599998, 53.7253099998 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3927,
+				"STATION_CODE" : "41095",
+				"STATION_NAME" : "Slim Creek",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 53.72531,
+				"LONGITUDE" : -121.13636,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 451,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.4388099994, 52.9307799995 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 1605,
+				"STATION_CODE" : "42091",
+				"STATION_NAME" : "Dragon Lake",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 52.93078,
+				"LONGITUDE" : -122.43881,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 452,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.3644200006, 53.1580000002 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3245,
+				"STATION_CODE" : "42092",
+				"STATION_NAME" : "Hush Lake",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 53.158,
+				"LONGITUDE" : -122.36442,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 453,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.7625600003, 55.7815 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 1042,
+				"STATION_CODE" : "43091",
+				"STATION_NAME" : "BRADEN ROAD",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 55.7815,
+				"LONGITUDE" : -120.76256,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 454,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.0323099996, 55.4858000003 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3923,
+				"STATION_CODE" : "43092",
+				"STATION_NAME" : "Tupper",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 55.4858,
+				"LONGITUDE" : -120.03231,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 455,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -121.2526400003, 56.5411099998 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 1041,
+				"STATION_CODE" : "44091",
+				"STATION_NAME" : "73 MILE",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 56.54111,
+				"LONGITUDE" : -121.25264,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 456,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.64055, 56.0793800003 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3924,
+				"STATION_CODE" : "44092",
+				"STATION_NAME" : "South Taylor Hill",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 56.07938,
+				"LONGITUDE" : -120.64055,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 457,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -121.8891300001, 56.0446899999 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3925,
+				"STATION_CODE" : "44093",
+				"STATION_NAME" : "Powell Road",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 56.04469,
+				"LONGITUDE" : -121.88913,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 458,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -124.4777000006, 54.0557899999 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3827,
+				"STATION_CODE" : "45091",
+				"STATION_NAME" : "Fort Fraser Hills",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 54.05579,
+				"LONGITUDE" : -124.4777,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 459,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -124.2764400002, 54.3455999996 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3926,
+				"STATION_CODE" : "45092",
+				"STATION_NAME" : "Spencer Pit",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 54.3456,
+				"LONGITUDE" : -124.27644,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 460,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -119.4277800005, 51.6763900001 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 978,
+				"STATION_CODE" : "46081",
+				"STATION_NAME" : "CN MCMURPHY",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 51.67639,
+				"LONGITUDE" : -119.42778,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 461,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -119.1800799994, 52.3855599993 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 960,
+				"STATION_CODE" : "46094",
+				"STATION_NAME" : "CHAPPEL CREEK",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 52.38556,
+				"LONGITUDE" : -119.18008,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 462,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -119.2003, 53.03303 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 839,
+				"STATION_CODE" : "46127",
+				"STATION_NAME" : "ROBSON ROADSIDE",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 53.03303,
+				"LONGITUDE" : -119.2003,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 463,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -119.2886100005, 52.9888900001 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 979,
+				"STATION_CODE" : "46181",
+				"STATION_NAME" : "CN MOREY",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 52.98889,
+				"LONGITUDE" : -119.28861,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 464,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -118.4608700003, 52.8842799989 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3687,
+				"STATION_CODE" : "46191",
+				"STATION_NAME" : "Yellowhead",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 52.88428,
+				"LONGITUDE" : -118.46087,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 465,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9858600005, 51.9374700003 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 866,
+				"STATION_CODE" : "47091",
+				"STATION_NAME" : "LEE'S HILL",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 51.93747,
+				"LONGITUDE" : -122.98586,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 466,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -121.7931400005, 51.9618100002 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 2321,
+				"STATION_CODE" : "47092",
+				"STATION_NAME" : "Enterprise",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 51.96181,
+				"LONGITUDE" : -121.79314,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 467,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.1179600002, 52.24473 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 4064,
+				"STATION_CODE" : "47094",
+				"STATION_NAME" : "Bull Mountain Road",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 52.24473,
+				"LONGITUDE" : -122.11796,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 468,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -128.6727799971, 55.632219992 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 1061,
+				"STATION_CODE" : "51191",
+				"STATION_NAME" : "Cranberry Junction",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 55.63222,
+				"LONGITUDE" : -128.67278,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 469,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -128.0507399983, 55.2467899964 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 4063,
+				"STATION_CODE" : "51193",
+				"STATION_NAME" : "Gitanyow",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 55.24679,
+				"LONGITUDE" : -128.05074,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 470,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -128.2611099986, 54.7463899959 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 878,
+				"STATION_CODE" : "52091",
+				"STATION_NAME" : "LEGATE CREEK",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 54.74639,
+				"LONGITUDE" : -128.26111,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 471,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -128.893609995, 54.9372199889 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 968,
+				"STATION_CODE" : "52092",
+				"STATION_NAME" : "ROSSWOOD",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 54.93722,
+				"LONGITUDE" : -128.89361,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 472,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -128.5377799971, 54.3022199934 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 966,
+				"STATION_CODE" : "52093",
+				"STATION_NAME" : "ONION LAKE",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 54.30222,
+				"LONGITUDE" : -128.53778,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 473,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -129.3510499919, 54.3134999802 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 837,
+				"STATION_CODE" : "52326",
+				"STATION_NAME" : "SALVUS",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 54.3135,
+				"LONGITUDE" : -129.35105,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 474,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -129.9816899811, 54.2084199573 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3302,
+				"STATION_CODE" : "52391",
+				"STATION_NAME" : "Rainbow East",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 54.20842,
+				"LONGITUDE" : -129.98169,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 475,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -129.6181699871, 55.0184899719 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3505,
+				"STATION_CODE" : "52591",
+				"STATION_NAME" : "Grizzly Hill",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 55.01849,
+				"LONGITUDE" : -129.61817,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 476,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -130.2505599667, 57.304769942 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 4122,
+				"STATION_CODE" : "53131",
+				"STATION_NAME" : "North Burrage",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 57.30477,
+				"LONGITUDE" : -130.25056,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 477,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -126.74361, 54.4819399995 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 972,
+				"STATION_CODE" : "54091",
+				"STATION_NAME" : "HUNGRY HILL",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 54.48194,
+				"LONGITUDE" : -126.74361,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 478,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -127.3260999993, 54.941429999 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3825,
+				"STATION_CODE" : "54092",
+				"STATION_NAME" : "Trout Creek",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 54.94143,
+				"LONGITUDE" : -127.3261,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 479,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -125.5363899998, 54.1916700002 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 1663,
+				"STATION_CODE" : "55091",
+				"STATION_NAME" : "Stearns",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 54.19167,
+				"LONGITUDE" : -125.53639,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 480,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -126.1960999999, 54.4594399999 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3822,
+				"STATION_CODE" : "55092",
+				"STATION_NAME" : "6 Mile Hill",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 54.45944,
+				"LONGITUDE" : -126.1961,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 481,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.5417600001, 48.56794 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3262,
+				"STATION_CODE" : "62091",
+				"STATION_NAME" : "Malahat",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 48.56794,
+				"LONGITUDE" : -123.54176,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 482,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -124.6161099996, 49.3705599998 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 928,
+				"STATION_CODE" : "63093",
+				"STATION_NAME" : "COCHRANE",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.37056,
+				"LONGITUDE" : -124.61611,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 483,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -125.4525000006, 49.1005600001 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3125,
+				"STATION_CODE" : "63094",
+				"STATION_NAME" : "Kennedy Lake",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.10056,
+				"LONGITUDE" : -125.4525,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 484,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -126.35528, 50.2823599996 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 1662,
+				"STATION_CODE" : "64091",
+				"STATION_NAME" : "Tsitika Summit",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 50.28236,
+				"LONGITUDE" : -126.35528,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 485,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -125.4791999995, 50.17186 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 3942,
+				"STATION_CODE" : "64092",
+				"STATION_NAME" : "Menzies Hill",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 50.17186,
+				"LONGITUDE" : -125.4792,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 486,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -125.1900600001, 49.8300299999 ]
+			},
+			"properties" : {
+				"OBSERVATION_LOCATION_ID" : 977,
+				"STATION_CODE" : "64093",
+				"STATION_NAME" : "NORTH COURTENAY",
+				"CONTRACT_AREA_ID" : null,
+				"OBSERVATION_LOCATION_TYPE" : "RWS",
+				"LATITUDE" : 49.83003,
+				"LONGITUDE" : -125.19006,
+				"FEATURE_CODE" : null,
+				"OBJECTID" : 487,
+				"SE_ANNO_CAD_DATA" : null,
+				"fme_feature_type" : "WHSE_ENVIRONMENTAL_MONITORING.TAWP_WEATHER_FROST_STN_POINT"
+			}
+		}
+	]
+}

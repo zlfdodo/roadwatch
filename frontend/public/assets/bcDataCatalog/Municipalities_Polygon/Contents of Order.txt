@@ -1,0 +1,14 @@
+------------------
+Order Details
+-----------------
+Order ID: 2471383
+Date: 20250627
+
+----------------------
+Feature Types
+-----------------------
+ - Municipalities - Legally Defined Administrative Areas of BC in subdirectory ABMS_MUNICIPALITIES_SP
+
+----------------------------
+Packaged Products
+----------------------------
