@@ -21,57 +21,64 @@ function MapPanel({ stations, events, setStations, setEvents, routeLine, corrido
       center: INITIAL_CENTER,
       zoom: INITIAL_ZOOM,
       maxzoom: 14
-    })
+    });
 
-    mapRef.current = map
+    mapRef.current = map;
 
-    // Add floating legend control
+    // Define custom floating legend control
     class LegendControl {
       onAdd(map) {
-        this.map = map
-        this.container = document.createElement('div')
-        this.container.className = 'mapboxgl-ctrl mapboxgl-ctrl-group'
+        this.map = map;
 
-        const button = document.createElement('button')
-        button.innerHTML = 'ℹ️'
-        button.title = 'Show Legend'
-        button.onclick = () => this.openLegendPopup()
+        this.container = document.createElement('div');
+        this.container.className = 'legend-floating';
 
-        this.container.appendChild(button)
-        return this.container
+        const button = document.createElement('button');
+        button.innerHTML = 'ℹ️';
+        button.title = 'Show Legend';
+        button.onclick = () => this.openLegendPopup();
+
+        button.style.background = 'none';
+        button.style.border = 'none';
+        button.style.fontSize = '20px';
+        button.style.cursor = 'pointer';
+        button.style.padding = '4px';
+        button.style.margin = '0';
+        button.style.lineHeight = '1';
+
+        this.container.appendChild(button);
+        return this.container;
       }
 
       onRemove() {
-        this.container.parentNode.removeChild(this.container)
-        this.map = undefined
+        this.container.parentNode.removeChild(this.container);
+        this.map = undefined;
       }
 
       openLegendPopup() {
         const popupContent = document.createElement('div');
         popupContent.innerHTML = `
-            <div style="font-size: 13px; line-height: 1.5;">
-            <strong>Legend</strong><br/>
-            <b>Condition:</b><br/>
-            <span style="display:inline-block;width:10px;height:10px;background:#2ecc71;border-radius:50%;margin-right:5px;"></span> Good<br/>
-            <span style="display:inline-block;width:10px;height:10px;background:#f1c40f;border-radius:50%;margin-right:5px;"></span> Caution<br/>
-            <span style="display:inline-block;width:10px;height:10px;background:#e74c3c;border-radius:50%;margin-right:5px;"></span> Dangerous<br/>
-            <span style="display:inline-block;width:10px;height:10px;background:#bdc3c7;border-radius:50%;margin-right:5px;"></span> No Data<br/>
-            <br/>
-            <b>Events:</b><br/>
-            🚧 Construction<br/>
-            🎉 Event<br/>
-            🚑 Incident<br/>
-            🌧️ Weather<br/>
-            🛣️ Road Condition<br/>
-            </div>
-        `;
+        <div style="font-size: 13px; line-height: 1.5;">
+          <strong>Legend</strong><br/>
+          <b>Condition:</b><br/>
+          <span style="display:inline-block;width:10px;height:10px;background:#2ecc71;border-radius:50%;margin-right:5px;"></span> Good<br/>
+          <span style="display:inline-block;width:10px;height:10px;background:#f1c40f;border-radius:50%;margin-right:5px;"></span> Caution<br/>
+          <span style="display:inline-block;width:10px;height:10px;background:#e74c3c;border-radius:50%;margin-right:5px;"></span> Dangerous<br/>
+          <span style="display:inline-block;width:10px;height:10px;background:#bdc3c7;border-radius:50%;margin-right:5px;"></span> No Data<br/>
+          <br/>
+          <b>Events:</b><br/>
+          🚧 Construction<br/>
+          🎉 Event<br/>
+          🚑 Incident<br/>
+          🌧️ Weather<br/>
+          🛣️ Road Condition<br/>
+        </div>
+      `;
 
-        // Get button screen position
         const buttonRect = this.container.getBoundingClientRect();
-
-        // Convert screen coords to map coords
-        const screenX = buttonRect.left + buttonRect.width;
+        const screenX = buttonRect.right + 10;
         const screenY = buttonRect.top + buttonRect.height / 2;
+
         const container = this.map.getContainer();
         const bounds = container.getBoundingClientRect();
         const point = [screenX - bounds.left, screenY - bounds.top];
@@ -85,11 +92,14 @@ function MapPanel({ stations, events, setStations, setEvents, routeLine, corrido
     }
 
     map.on('load', () => {
-      map.addControl(new LegendControl(), 'top-left')
-    })
+      const legend = new LegendControl();
+      const ctrlElement = legend.onAdd(map);
+      map.getContainer().appendChild(ctrlElement);
+    });
 
-    return () => map.remove()
-  }, [mapRef])
+    return () => map.remove();
+  }, [mapRef]);
+
 
   // Data loading
   useEffect(() => {
